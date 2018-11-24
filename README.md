@@ -9,15 +9,17 @@ A chat room with private/secret chat options using Socket programming in Python3
 
 Connect to the same LAN 
 
-Client.py : (run this on any no of client systems) 
-python3 client.py 
-Enter Host IP: 
-Enter port: 
+1. **Client.py** : (run this on any no of client systems) 
+
+* python3 client.py 
+* Enter Host IP: 
+* Enter port: 
  
-<Update Name in the tkinter text box> 
+* [ Update Name in the tkinter text box ]
 
  
   
    
-Server.py:
+2. **Server.py**: 
+
 python3 server.py
